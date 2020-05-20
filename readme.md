@@ -1,6 +1,6 @@
 # TDD Practice VendingMachine
 
-본 repository는 지난 2019년 여름 ruby로 진행했었던 TDD 스터디에서 마저 완성하지 못했던 vending machine 프로젝트를 typescript로 구현하기 위한 repository 입니다. [루비로 구현했던 프로젝트 링크](https://github.com/ppamppamman/Practice-Project/tree/ruby)
+본 repository는 지난 2019년 여름 ruby로 진행했었던 TDD 스터디에서 마저 완성하지 못했던 vending machine 프로젝트를 typescript로 구현하기 위한 repository 입니다. [루비로 구현했던 프로젝트 링크](https://github.com/ppamppamman/TDD-Practice-Project-Ruby/tree/ruby)
 
 
 
